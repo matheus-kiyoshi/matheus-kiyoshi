@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Matheus Kiyoshi from São Paulo, Brazil<br><br>- 🔭 I’m a Front-End Developer<br>- 📚 I'm currently learning Java<br>- ⚡ I want to improve my skills and learn new technologies.  My goal with programming is to create engaging and memorable digital experiences.  Constantly looking to learn and evolve.</p>
+<p align="left">I'm Matheus Kiyoshi from São Paulo, Brazil<br><br>- 🔭 I’m a Front-End Developer<br>- 📚 I'm currently learning Java and NestJS<br>- ⚡ I want to improve my skills and learn new technologies.  My goal with programming is to create engaging and memorable digital experiences.  Constantly looking to learn and evolve.</p>
 
 ###
 

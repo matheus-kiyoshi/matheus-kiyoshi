@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm Matheus Kiyoshi<br><br>- 📍 São Paulo, SP, Brazil<br>- 🔭 I’m a FullStack Developer<br>- 📚 I'm currently learning Computer Science subjects and Vue.js<br>- ⚡ I want to improve my skills and learn new technologies.  My goal with programming is to create engaging and memorable digital experiences.  Constantly looking to learn and evolve.</p>
+<p align="left">I'm Matheus Kiyoshi<br><br>- 📍 São Paulo, SP, Brazil<br>- 🔭 I’m a FullStack Developer<br>- 📚 I'm currently learning Mobile Development with Kotlin<br>- ⚡ I want to improve my skills and learn new technologies.  My goal with programming is to create engaging and memorable digital experiences.  Constantly looking to learn and evolve.</p>
 
 ###
 

@@ -29,11 +29,14 @@
 ###
 
 <div align="center">
-<p>
-  <img src="https://streak-stats.demolab.com?user=matheus-kiyoshi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=matheus-kiyoshi&theme=onedark&hide_border=true&locale=pt_BR&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=matheus-kiyoshi&show_icons=true&theme=highcontrast" height="220" alt="stats graph"  />
-</p>
+</p> -->
 <p>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gameskftv" alt="spotify recently tracks"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gameskftv" alt="spotify recently tracks" height="330"  />
+  <img src="https://raw.githubusercontent.com/matheus-kiyoshi/matheus-kiyoshi/main/assets/ryujinn.gif" height="330" />
 </p>
 </div>
